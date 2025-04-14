@@ -2,7 +2,7 @@
 Welcome to psychopy-eyetracker-sr-research's documentation!
 =======================================================
 
-The `psychopy-eyetracker-sr-research` plugin is designed to show you how to make a plugin.
+The `psychopy-eyetracker-sr-research` plugin adds EyeLink to the supported eyetracker devices in ioHub..
 
 .. toctree::
    :maxdepth: 1
